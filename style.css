@@ -1,0 +1,40 @@
+{
+    background-image: url("./photo.time/MyLife.com.jpg");
+}
+
+tr{
+    border: 10px solid white;
+    background-color:orange;
+   
+}
+button {
+    width: 20px;
+}
+.tb{
+    align-content: center;
+    height: 20px;
+    background-color: orange;
+}
+
+.future-time{
+    
+    
+}
+
+button{
+    background-color:#7fff;
+    float:right;
+}
+input{
+    background-color:#7fff00;
+    
+}
+.bg-gn{
+    text-align: center;
+}
+.k{
+    background-color: red;
+}
+.j{
+    background-color:#808080;
+}
